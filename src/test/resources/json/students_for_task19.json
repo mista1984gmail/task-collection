@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "surname": "Adams",
+    "age": 18,
+    "faculty": "Physics",
+    "group": "P-1"
+  },
+  {
+    "id": 8,
+    "surname": "Carter",
+    "age": 18,
+    "faculty": "Physics",
+    "group": "P-1"
+  },
+  {
+    "id": 11,
+    "surname": "Jonson",
+    "age": 18,
+    "faculty": "Physics",
+    "group": "P-1"
+  }
+]
